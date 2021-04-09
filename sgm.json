@@ -98,9 +98,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playmusic",
-                 "type":"file",
-                 "value":"X:\/_______MUSIK-PRODUKTIONEN\/___SILENTGROOVE\/the-rhythm-of-the-universe.mp3"
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"silentgroovemusic"
                 }],
          "type":"tilelayer",
          "visible":true,
